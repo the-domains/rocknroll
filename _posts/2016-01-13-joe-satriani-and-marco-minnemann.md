@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T16:14:18.083Z'
-dateModified: '2016-01-13T16:11:39.223Z'
+datePublished: '2016-01-13T16:16:01.091Z'
+dateModified: '2016-01-13T16:15:57.972Z'
 title: 'Joe Satriani & Marco Minnemann'
 author: []
+sourcePath: _posts/2016-01-13-joe-satriani-and-marco-minnemann.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-joe-satriani-and-marco-minnemann.md
-published: true
 _type: Blurb
 
 ---
