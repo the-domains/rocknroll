@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T15:59:28.614Z'
-dateModified: '2016-01-13T15:51:44.247Z'
+datePublished: '2016-01-13T16:20:50.070Z'
+dateModified: '2016-01-13T16:20:46.891Z'
 title: About Marc Mennigmann
 author: []
+sourcePath: _posts/2016-01-13-about-marc-mennigmann.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-about-marc-mennigmann.md
-published: true
 url: about-marc-mennigmann/index.html
 _type: Article
 
@@ -29,3 +29,7 @@ Marc Mennigmann (born 1970) worked as a session musician in the 1990s and founde
 He started photography for fun in the new millennium using medium format film and a Lomo camera. Later he switched to digital photography, covering everything from landscapes and architecture to people and product photography.
 
 Currently his main interest is taking headshot portraits and shooting musicians on stage in good old black & white manner.
+
+If you want to work with me drop me a line at [marc@mennigmann.com][0]
+
+[0]: mailto:marc@mennigmann.com
