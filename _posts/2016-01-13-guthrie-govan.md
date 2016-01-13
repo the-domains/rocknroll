@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T16:27:28.178Z'
-dateModified: '2016-01-13T16:27:10.801Z'
+datePublished: '2016-01-13T16:29:05.745Z'
+dateModified: '2016-01-13T16:29:01.741Z'
 title: Guthrie Govan
 author: []
+sourcePath: _posts/2016-01-13-guthrie-govan.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-guthrie-govan.md
-published: true
 _type: Blurb
 
 ---
