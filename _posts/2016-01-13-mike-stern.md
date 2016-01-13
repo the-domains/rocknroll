@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T16:02:44.213Z'
-dateModified: '2016-01-13T16:02:27.889Z'
+datePublished: '2016-01-13T16:12:18.563Z'
+dateModified: '2016-01-13T16:12:13.956Z'
 title: Mike Stern
 author: []
+sourcePath: _posts/2016-01-13-mike-stern.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-mike-stern.md
-published: true
-url: mike-stern/index.html
-_type: Article
+_type: Blurb
 
 ---
 # Mike Stern
