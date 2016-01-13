@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[The Music Photography Portfolio by Marc Mennigmann]]></title>
         <description><![CDATA[The Music Photography Portfolio by Marc Mennigmann]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rocknroll/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 15:59:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 16:03:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rocknroll/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mike Stern]]></title>
+            <description><![CDATA[<article><h1>Mike Stern</h1><p>I am so glad to have Mike in my portfolio. He also participated in my HANDS project.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3855b7d4-73aa-464e-8402-740051c339fd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rocknroll/mike-stern/index.html</link>
+            <guid isPermaLink="false">35bf3346-0f96-487a-8daf-4a9d28d65924</guid>
+            <pubDate>Wed, 13 Jan 2016 16:02:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Marc Mennigmann]]></title>
             <description><![CDATA[<article><h1>About Marc Mennigmann</h1><p>Currently his main interest is taking headshot portraits and shooting musicians on stage in good old black & white manner.
-</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b521679d2d1291bc1e2e21286addd4d0ccfca7e3.jpg"></article>]]></description>
-            <link>undefinedabout-marc-mennigmann/index.html</link>
+</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca4c5c666ba713c699ac53781fe1906f814e14e3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/rocknroll/about-marc-mennigmann/index.html</link>
             <guid isPermaLink="false">e62535af-8f64-455b-a071-f18aa35dbb6e</guid>
             <pubDate>Wed, 13 Jan 2016 15:59:28 GMT</pubDate>
         </item>
