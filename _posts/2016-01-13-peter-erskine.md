@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T16:14:18.076Z'
-dateModified: '2016-01-13T16:14:00.270Z'
+datePublished: '2016-01-13T16:15:40.439Z'
+dateModified: '2016-01-13T16:15:36.866Z'
 title: Peter Erskine
 author: []
+sourcePath: _posts/2016-01-13-peter-erskine.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-peter-erskine.md
-published: true
 _type: Blurb
 
 ---
