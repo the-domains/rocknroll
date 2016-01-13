@@ -1,7 +1,7 @@
 name: rocknroll
 favicon: null
-layout_spectrum: 0.7293335848953575
-typography_spectrum: 0.06487418850883842
+layout_spectrum: 1
+typography_spectrum: 0.22602
 title: The Music Photography Portfolio by Marc Mennigmann
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#010101'
+    - '#fefefe'
+    - '#5a5a5a'
+    - '#c8c8c8'
+    - '#848484'
   brandStrength: 0.4835536596365273
-  lightness: 0.9459775928407907
-  saturation: 0.8195539466105402
-  rhythmicContrast: 0.892881594132632
+  lightness: 0
+  saturation: 0.5
+  rhythmicContrast: 1
 purpose: []
