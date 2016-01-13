@@ -7,18 +7,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T16:27:28.163Z'
-dateModified: '2016-01-13T16:26:18.592Z'
+datePublished: '2016-01-13T16:29:54.982Z'
+dateModified: '2016-01-13T16:29:52.105Z'
 title: Geoffrey Burton
 author: []
+sourcePath: _posts/2016-01-13-geoffrey-burton.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-13-geoffrey-burton.md
-published: true
 _type: Blurb
 
 ---
