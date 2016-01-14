@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-13T16:29:05.745Z'
-dateModified: '2016-01-13T16:29:01.741Z'
+datePublished: '2016-01-14T11:04:48.111Z'
+dateModified: '2016-01-14T11:04:45.281Z'
 title: Guthrie Govan
 author: []
 sourcePath: _posts/2016-01-13-guthrie-govan.md
@@ -23,4 +23,4 @@ _type: Blurb
 
 ---
 # Guthrie Govan
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/56c5b11b-eee9-4e44-9207-02c8f3169ca6.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3e044d1364bf9672286ca2c018d469cb3dde5bb4.jpg)
