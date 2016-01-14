@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-14T11:04:48.111Z'
-dateModified: '2016-01-14T11:04:45.281Z'
+datePublished: '2016-01-14T11:06:32.942Z'
+dateModified: '2016-01-14T11:06:30.328Z'
 title: Guthrie Govan
 author: []
 sourcePath: _posts/2016-01-13-guthrie-govan.md
