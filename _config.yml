@@ -1,29 +1,41 @@
-name: rocknroll
-favicon: null
-layout_spectrum: 0.45618
-typography_spectrum: 0.22602
 title: The Music Photography Portfolio by Marc Mennigmann
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5
+  brandStrength: 0.4835536596365273
+  rhythmicContrast: 0.5
   brandColors:
     - '#010101'
     - '#fefefe'
     - '#5a5a5a'
     - '#c8c8c8'
     - '#848484'
-  brandStrength: 0.4835536596365273
   lightness: 0
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: rocknroll
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.01612903
+layout_spectrum: 0.6630824
